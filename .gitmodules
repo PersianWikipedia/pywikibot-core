@@ -3,3 +3,6 @@
 	url = https://gerrit.wikimedia.org/r/pywikibot/i18n
 	branch = master
 	ignore = all
+[submodule "fawikibot"]
+	path = fawikibot
+	url = https://github.com/PersianWikipedia/fawikibot
