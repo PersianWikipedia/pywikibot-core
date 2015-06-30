@@ -6,3 +6,5 @@
 [submodule "fawikibot"]
 	path = fawikibot
 	url = https://github.com/PersianWikipedia/fawikibot
+	branch = .
+	ignore = all
